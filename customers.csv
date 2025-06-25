@@ -1,0 +1,1001 @@
+ID,Name,Age,Salary,City
+1,Allison Hill,39,75931.7,Houston
+2,Noah Rhodes,33,61015.36,Miami
+3,Angie Henderson,41,40122.14,New York
+4,Daniel Wagner,50,29471.2,Miami
+5,Cristian Santos,32,53094.78,Chicago
+6,Connie Lawrence,32,47924.9,Chicago
+7,Abigail Shaffer,50,60318.53,New York
+8,Gina Moore,42,52573.41,New York
+9,Gabrielle Davis,30,65535.38,Los Angeles
+10,Ryan Munoz,40,32226.2,Chicago
+11,Monica Herrera,30,72063.91,New York
+12,Jamie Arnold,30,42823.97,Los Angeles
+13,Lisa Hensley,37,105232.12,New York
+14,Michele Williams,18,28289.92,Los Angeles
+15,Dylan Miller,18,90836.59,Chicago
+16,Brian Ramirez,29,43399.11,Houston
+17,Holly Wood,24,29455.83,Houston
+18,Derek Zuniga,38,30007.47,Chicago
+19,Lisa Jackson,25,35076.07,Chicago
+20,Carla Gray,20,47155.8,Chicago
+21,Margaret Hawkins DDS,49,50725.42,Houston
+22,Patty Perez,32,31036.68,Chicago
+23,Ethan Adams,35,40736.62,New York
+24,Tommy Walter,20,108184.91,New York
+25,Matthew Foster,29,86624.14,Chicago
+26,Judy Baker,36,48852.65,Chicago
+27,Justin Baker,23,42312.67,Houston
+28,Stephanie Ross,38,43300.68,New York
+29,Zachary Hicks,28,53062.91,Chicago
+30,Anthony Rodriguez,32,24785.23,Houston
+31,Rebecca Henderson,28,36237.46,Houston
+32,James Ferrell,53,18293.98,Chicago
+33,Tricia Valencia,34,48314.99,Chicago
+34,Nathan Maldonado,24,54196.82,Chicago
+35,Debra Davidson,43,33081.52,Miami
+36,Jeffrey Chavez,22,86036.89,New York
+37,Sherri Baker,37,23567.67,Miami
+38,Cassandra Gaines,18,20453.56,Los Angeles
+39,Elizabeth Fowler,21,44102.96,Chicago
+40,Brittany Farmer,36,63031.78,New York
+41,Paula Moreno,42,87090.68,Chicago
+42,Fred Smith,36,31960.71,Chicago
+43,Sherry Decker,33,65252.47,New York
+44,Anthony Humphrey,31,39275.32,Los Angeles
+45,Angelica Tucker,20,35990.03,Miami
+46,Philip Cannon,27,61111.66,Los Angeles
+47,John Pierce,30,53820.39,Los Angeles
+48,Shane Henderson,45,20002.06,New York
+49,Joshua Blair,38,79155.51,Chicago
+50,Eric Carney,18,76061.28,New York
+51,Jessica Holmes,38,30886.61,Los Angeles
+52,Danny Morgan,31,46895.75,Miami
+53,Crystal Robinson,28,49332.93,Los Angeles
+54,Mark Perez,41,44567.33,New York
+55,Shannon Jones,45,29734.16,Chicago
+56,Michael Lewis,44,28637.53,Los Angeles
+57,Timothy Duncan,26,38878.23,Chicago
+58,Richard Aguirre,31,69649.4,Houston
+59,Brent Jordan,38,51420.29,Houston
+60,John Daniel,44,33866.29,Los Angeles
+61,Victoria Garcia,30,57766.03,Chicago
+62,Gerald Hensley,33,12103.18,New York
+63,Connor West,23,68388.04,New York
+64,Donald Wright,23,18613.39,Chicago
+65,Jessica Callahan,43,34061.62,Chicago
+66,Amber Kidd,48,23664.41,Los Angeles
+67,Tracy House,34,20070.02,Los Angeles
+68,Carol Tucker,45,68253.42,New York
+69,James Brown,38,33665.74,Chicago
+70,William Baker,28,47611.36,New York
+71,Jordan Henderson,38,39938.84,New York
+72,Whitney Peters,50,50833.93,Houston
+73,Brittney Phillips,34,41326.21,New York
+74,Lauren Daniels,50,22817.58,Chicago
+75,Amy Silva,18,62644.83,New York
+76,Sarah Moore,43,31554.9,Houston
+77,Angela Lopez,35,20791.49,Los Angeles
+78,Megan Young,32,34021.46,New York
+79,Steve Sanchez,35,80269.69,Chicago
+80,Lisa Barnes,18,58603.81,Los Angeles
+81,Kelly Donovan,32,34006.38,Miami
+82,Mike Allen,38,34597.83,New York
+83,Michael Evans,49,32976.89,Houston
+84,Paul Jones,29,103781.33,Miami
+85,Zachary Ferrell,26,46906.49,Miami
+86,Daniel Baker,29,47306.43,Los Angeles
+87,Shirley Suarez,44,63779.5,Los Angeles
+88,Christopher Bass,38,44273.05,Chicago
+89,Lisa Archer,29,34950.5,Houston
+90,Aimee Montoya,40,37872.12,Chicago
+91,Matthew Mcmillan,35,38865.13,Los Angeles
+92,Brian Rodriguez,44,39446.36,Chicago
+93,Denise Jacobs,27,56373.23,Los Angeles
+94,Christina Walters,31,39632.25,Houston
+95,John Whitehead,31,56921.2,New York
+96,Anna Henderson,20,38303.29,Houston
+97,Aaron Wise,37,41942.26,Chicago
+98,Deborah Figueroa,37,15799.89,Houston
+99,Jessica Smith,35,59367.15,Chicago
+100,Stephen Mckee,32,47502.71,Chicago
+101,Sandra Aguilar,20,63691.01,Miami
+102,Cameron Parker,30,11132.45,New York
+103,Rebecca Valencia,31,105805.9,Houston
+104,Christine Wright,26,38492.73,Chicago
+105,Richard Henson,33,65512.6,Chicago
+106,Marc Moore,39,26734.0,Chicago
+107,Sharon Cherry,53,51934.28,Los Angeles
+108,Sierra Johnson,36,25584.37,Chicago
+109,Evelyn Galvan,37,29756.73,New York
+110,Sharon Cochran,34,98665.63,New York
+111,Richard Rodriguez,18,35968.96,New York
+112,Shannon Walker,34,43823.41,Miami
+113,Julia Torres,35,59648.93,Miami
+114,Crystal Johnson,59,49027.27,Chicago
+115,Garrett Lin,33,43392.93,Los Angeles
+116,Diana May,38,46572.32,Chicago
+117,William Herrera,34,124049.2,Los Angeles
+118,Ashley Waller,23,37789.85,Houston
+119,Victor Baker,46,41094.56,Miami
+120,Jeffrey Chandler,42,64718.92,Chicago
+121,Larry Dixon,42,69030.72,Houston
+122,Kenneth Scott,25,70028.04,New York
+123,April Frost,49,53460.09,Miami
+124,Michelle Harmon,20,23743.62,New York
+125,Helen Jones,40,85706.45,Los Angeles
+126,Erin Edwards,56,24519.4,Los Angeles
+127,Michelle Evans,25,44567.42,Los Angeles
+128,Jason Powell,29,29520.27,New York
+129,Cameron Fisher,35,39384.75,Miami
+130,Megan Orr,29,47021.94,New York
+131,Elizabeth Kelley,19,46584.04,Los Angeles
+132,Dustin Jordan,35,48364.3,New York
+133,Mary Marshall,24,85550.49,Chicago
+134,Daniel Kennedy,39,49650.98,Chicago
+135,Rebecca Jackson,25,35288.05,Chicago
+136,Jose Schultz,50,61735.01,New York
+137,Robert Potter,27,69425.56,New York
+138,Courtney Gonzalez,31,24706.16,Chicago
+139,David Alvarez,43,51218.01,Houston
+140,Angel Perry,22,53596.85,Houston
+141,Cheyenne Horton,37,34959.91,New York
+142,David Douglas Jr.,48,75798.42,Chicago
+143,Patricia Rodriguez,18,37363.88,New York
+144,Christopher Rubio,36,42412.75,New York
+145,Amber Wright,37,36581.84,Los Angeles
+146,Joyce Solis,42,41589.35,Los Angeles
+147,Victoria Larson,22,22890.38,New York
+148,Stephanie Salazar,21,20347.71,New York
+149,Kathy Rivas,40,83996.63,New York
+150,Stephanie Manning,37,25634.89,Houston
+151,David Wright,37,25445.61,Miami
+152,Pamela Boyd,38,17534.88,New York
+153,Denise Jones,28,29905.05,New York
+154,Devon Flores,37,22471.44,Houston
+155,Brenda Hall,37,84777.3,Miami
+156,Michelle Brown,27,63052.4,Chicago
+157,Joshua Perry,53,28867.98,New York
+158,Jason Stein,39,115178.23,New York
+159,Melissa Gates,23,64112.38,Los Angeles
+160,Jamie Smith,41,34929.06,Chicago
+161,Paul Castaneda,25,12796.2,New York
+162,Jennifer Adkins,42,117919.64,Los Angeles
+163,Lindsey Walker,46,22126.24,New York
+164,Jeffrey Johnson,26,20591.53,Houston
+165,Michael Powell,44,65634.2,Chicago
+166,John Anderson,39,125477.1,New York
+167,Alyssa Long,43,75246.77,Los Angeles
+168,Alyssa Day,53,50386.56,Chicago
+169,Joel Williams,32,52158.38,Miami
+170,Daniel Murphy,27,59609.15,Chicago
+171,Jamie Walton,26,57562.49,New York
+172,Darlene Miller,26,45221.71,Los Angeles
+173,Joshua Cooke,34,41437.87,New York
+174,Matthew Harrington,38,38848.31,Miami
+175,Nicole Herring,37,27574.69,Chicago
+176,Alex Hernandez,43,37150.07,Chicago
+177,Michael Elliott,35,17468.88,New York
+178,Michael Wang,49,38257.81,Chicago
+179,Lawrence Adkins,32,27676.08,Houston
+180,Robert Oconnell,62,24421.45,Houston
+181,Alexander Collins,41,43043.35,New York
+182,Tina Sanders,26,75981.14,New York
+183,Angela Vaughn,24,60797.65,Houston
+184,Ashley Barton,39,21432.92,Miami
+185,Lindsay Martinez,32,23429.13,New York
+186,Dr. Hannah Patterson,42,63160.44,Chicago
+187,Jonathan Peterson,39,24296.23,Chicago
+188,Samantha Garcia,34,35690.74,Houston
+189,Madison Poole,26,50882.47,New York
+190,Jessica Gross,19,26466.42,New York
+191,Debra Morton,30,40182.06,Houston
+192,Karen Graham,43,22600.72,New York
+193,Debra Christian,37,32409.1,Chicago
+194,Angelica Keith,22,44748.82,Chicago
+195,John Bishop,36,20064.58,Chicago
+196,Allen Rosales,38,48100.66,Chicago
+197,Daniel Salinas,26,39886.56,Chicago
+198,Spencer Haynes,36,51389.18,New York
+199,Adam Vaughan,35,43476.13,Los Angeles
+200,Nathan Freeman,23,75818.79,Houston
+201,Melissa Brewer,38,43966.34,Houston
+202,Ricky Davis II,40,32607.76,New York
+203,Elizabeth Perkins,45,42825.21,New York
+204,Joseph Coleman,45,49857.26,New York
+205,Erin Warner,21,39757.18,Chicago
+206,David Martinez,25,41032.49,Chicago
+207,Bryan Herrera,40,30549.75,Los Angeles
+208,Cathy Robinson,40,29925.85,New York
+209,Dr. William Warren,40,21197.21,New York
+210,Brian Lee,73,90597.22,Chicago
+211,Christopher Smith,40,21747.62,Los Angeles
+212,Denise Mccann,46,29786.56,New York
+213,Melissa Martinez,44,29738.98,Los Angeles
+214,Katherine Salas,41,59857.6,New York
+215,Julie Alexander,31,34366.03,Houston
+216,Anthony Everett,42,71535.62,Houston
+217,Rodney Morales,27,28995.84,New York
+218,Mark Brown,32,45185.64,New York
+219,Justin Torres,30,29516.28,Chicago
+220,Bailey Duran DDS,35,109399.38,New York
+221,Courtney Mills,58,23196.0,Los Angeles
+222,Jeremy Dalton,18,45252.74,Houston
+223,Elizabeth Oliver DDS,41,54099.91,Los Angeles
+224,Theresa Clark,18,47981.72,Houston
+225,Matthew Moore,30,35952.86,Chicago
+226,Benjamin Smith,45,38854.43,New York
+227,Kirk Carter,35,42039.4,Los Angeles
+228,Michael Warner,24,36641.59,Chicago
+229,Michael Bradshaw,27,60435.95,Los Angeles
+230,Lori Guerrero,41,114180.84,New York
+231,Jessica Stephens,27,30296.48,New York
+232,Susan Serrano,37,22598.72,Miami
+233,Christopher Parker,35,36277.26,New York
+234,Laura Roberts,28,136299.9,Miami
+235,Michael Lyons,56,26587.15,Miami
+236,Kathryn Snyder,41,86648.7,Houston
+237,Andrew Reynolds,18,87537.66,Los Angeles
+238,David Davis,36,30080.86,Los Angeles
+239,Sara Johnston,28,51359.39,Houston
+240,Yvonne Chambers,43,86163.67,New York
+241,Andrew Avila,27,33650.43,Chicago
+242,Matthew Moon,33,36885.27,Los Angeles
+243,Kevin Walters,40,32627.18,Chicago
+244,Brandon Bailey MD,43,23800.3,Chicago
+245,Shannon Rivera,22,31365.64,Chicago
+246,Donna Landry,31,23297.58,Los Angeles
+247,Krista Gibson,30,39540.9,Houston
+248,Frank Cordova,28,26880.92,New York
+249,Jose Travis,52,44129.47,Miami
+250,Kimberly Gutierrez,39,21103.09,Los Angeles
+251,Isaiah Avila,22,46221.56,Houston
+252,Olivia Harris,44,60103.41,Los Angeles
+253,Tanya Kim,56,15450.46,Houston
+254,Barbara Dudley,45,47272.11,New York
+255,Cynthia Moore,19,69340.57,Houston
+256,Kristen Davis,30,23698.16,New York
+257,Susan Murray MD,47,88195.09,Houston
+258,Kathleen Moran,27,47858.91,Miami
+259,Denise Davenport,39,26422.84,New York
+260,Mrs. Kristen Reyes,42,39015.8,New York
+261,Katie Suarez,25,51946.68,Houston
+262,Desiree Tyler,34,41626.44,New York
+263,Timothy Romero,18,52278.22,Houston
+264,Diane Evans,24,25346.61,New York
+265,Yvonne Burns,32,43704.89,New York
+266,Joshua Reed,22,22603.01,Miami
+267,Kimberly Gibson,51,36072.43,Los Angeles
+268,Colin Terry,20,26930.24,Houston
+269,Cynthia Rowe,30,28136.31,Chicago
+270,Patrick Thornton,36,70794.64,Los Angeles
+271,Jasmin Alvarado,49,66518.74,Los Angeles
+272,Veronica Simpson,20,52258.06,Los Angeles
+273,Jonathan Lawrence,46,23857.2,Los Angeles
+274,Shelly Alexander,35,34535.8,Los Angeles
+275,Joyce Bowen,25,69018.68,Chicago
+276,Matthew Moore,39,41396.3,New York
+277,Wayne Morgan,36,119984.58,Houston
+278,Marie Christian,28,46559.11,New York
+279,Shannon James,35,44141.91,Los Angeles
+280,Nathan Malone,31,35077.48,New York
+281,Amanda Jones,36,40597.28,Los Angeles
+282,Tammie Bright,41,36472.33,Los Angeles
+283,Jessica Garcia,50,56437.62,New York
+284,Shelia Wallace,22,61110.7,New York
+285,Stephanie Williams,56,27549.73,New York
+286,Elaine Brooks,18,22626.65,Los Angeles
+287,Joseph Knight,33,18783.29,Houston
+288,Carolyn Miller,40,50065.18,New York
+289,Lisa Allen,37,23819.47,Los Angeles
+290,Briana Murray,28,17298.87,Chicago
+291,David Smith,32,49342.17,Chicago
+292,Stephanie Byrd,30,130789.52,Miami
+293,Jeremy Reed,29,39790.75,Chicago
+294,Margaret Coleman,43,57920.84,Chicago
+295,Ryan Gonzalez,38,40501.71,New York
+296,John Young,28,38586.07,New York
+297,Laura Haney,43,61418.28,New York
+298,William Barrett,38,36311.01,New York
+299,Keith Jennings,43,45660.72,Los Angeles
+300,Amber Obrien,41,44649.75,Chicago
+301,Tanner Mitchell DDS,26,30554.62,Chicago
+302,Heather Fields,29,62138.33,New York
+303,Megan Le,42,36389.65,New York
+304,Sara Fuller,41,28637.86,Los Angeles
+305,Maria Parker,34,52984.74,Miami
+306,Kevin Oconnor,36,29783.45,New York
+307,Edward Burgess,47,40937.55,Houston
+308,Carlos Ryan,29,39467.1,Los Angeles
+309,Kiara Mcintyre,40,66536.13,Los Angeles
+310,Dawn Summers,32,50431.49,Chicago
+311,Dr. Paul Morgan,32,39043.23,New York
+312,Victor Taylor,45,59954.98,New York
+313,Shannon Ramsey,43,76503.32,Los Angeles
+314,Tracy Ballard,43,51995.29,Chicago
+315,Richard Smith,48,40669.89,Miami
+316,Jordan Chambers,35,22768.08,Chicago
+317,Lauren Carson,41,25659.84,New York
+318,Ashley Hall,31,34058.24,Los Angeles
+319,Stephen Hoffman,38,29717.23,New York
+320,Connie Brown,33,35474.23,Chicago
+321,Susan Turner,35,41298.35,Los Angeles
+322,Charles Shah,40,51606.42,Miami
+323,Johnathan Davis,26,39015.47,Houston
+324,Brandy Chavez,55,51490.87,Los Angeles
+325,Natalie Bautista,24,40999.69,Los Angeles
+326,Patrick Moore,22,17693.36,Miami
+327,Brett Burns,46,25113.11,New York
+328,Trevor Johnson,42,36904.12,New York
+329,Jeremy Sampson,41,24029.53,New York
+330,Ariana Jennings,41,53368.16,New York
+331,Vanessa Howard,34,81277.15,Los Angeles
+332,Colton Martinez,26,70223.23,Los Angeles
+333,Jordan Bates,35,34621.63,Los Angeles
+334,Linda Smith,28,79667.23,New York
+335,Dana Martinez,44,43508.22,Los Angeles
+336,Andrea Hubbard,33,34757.99,Chicago
+337,Daniel Kane,26,30724.17,Los Angeles
+338,Charles Lester,31,34768.24,Los Angeles
+339,Scott Thomas,39,33415.97,Chicago
+340,David Thompson,29,42385.22,New York
+341,Allison Smith,26,43550.23,New York
+342,Cynthia Morris,37,40291.83,Houston
+343,Anthony Harmon,37,49174.7,Miami
+344,Nichole Alvarez,29,68836.37,Los Angeles
+345,Kayla Rodriguez,30,59729.48,New York
+346,Theresa Williams,37,21881.4,Chicago
+347,Sharon Boyd,20,13148.96,Los Angeles
+348,Victor Brown,20,60577.03,Houston
+349,James Parks,27,22528.36,New York
+350,Theodore Jones Jr.,32,35563.23,New York
+351,Ana Hill,38,24790.37,Los Angeles
+352,Kimberly Nguyen,49,18867.17,Chicago
+353,Kerry Chavez DDS,43,51790.39,New York
+354,Michael Farrell,33,55215.22,New York
+355,Patricia Le,34,31932.97,Chicago
+356,Jesse Perez,24,13702.81,Houston
+357,Jesse Perry,34,30766.81,Miami
+358,Jeffery Ortega,32,47817.85,Los Angeles
+359,Christian Leblanc,38,19059.83,Chicago
+360,Ronald Davis,26,43710.95,New York
+361,Parker Cain,40,38509.2,Chicago
+362,Laurie Hoffman,50,50663.18,Chicago
+363,Bryan Gomez,33,40530.68,Los Angeles
+364,Nicole Parrish,39,26937.76,Chicago
+365,Tracy Burke,41,68928.56,New York
+366,Kenneth Lewis,30,38581.82,New York
+367,Courtney Rodriguez,37,38787.28,Chicago
+368,Holly Farmer,35,24566.44,New York
+369,Renee Bruce,35,31479.56,New York
+370,Sabrina Austin,27,28068.22,Miami
+371,Allison Hickman,35,36651.24,Chicago
+372,Debra White,39,88416.03,Chicago
+373,Ellen Morgan,49,21948.92,Houston
+374,Sergio Knight,44,20209.12,Miami
+375,Charles Schultz,56,80397.06,Los Angeles
+376,Paul Lewis,27,37655.3,Houston
+377,Glen Wood,43,29130.14,Chicago
+378,Paula Bradley,36,63254.72,Chicago
+379,Anthony Moore,56,29914.29,Chicago
+380,Megan Nelson,26,94251.21,Los Angeles
+381,Karla Ramos,26,53504.73,Los Angeles
+382,Paul Wilson,29,30996.86,Chicago
+383,Douglas Gregory,18,110637.48,New York
+384,Mr. Andrew Foster,29,30277.77,Los Angeles
+385,Aimee Turner,27,56163.12,New York
+386,Chad Scott,36,44919.18,Los Angeles
+387,Adam Burgess,38,72894.02,Los Angeles
+388,James Padilla,53,81856.91,Los Angeles
+389,Sandra Drake,44,41291.5,Houston
+390,Scott Williams,29,29451.89,Houston
+391,Thomas Atkins,26,47359.87,Chicago
+392,Laura Mckinney,39,28448.33,Los Angeles
+393,Brian Smith,21,101382.22,Los Angeles
+394,Robert Montgomery,53,41731.24,New York
+395,Tamara Davis,46,33669.22,New York
+396,Dana Chapman,30,41878.94,New York
+397,Jennifer Collins,18,21095.0,Chicago
+398,Gary Jackson,48,24837.36,Los Angeles
+399,Ashley Hicks,33,69892.12,Houston
+400,Hannah Luna,47,29717.99,New York
+401,Robin Young,19,24294.1,New York
+402,Craig Morrison,29,51169.29,Miami
+403,Mary Thompson,35,68653.18,New York
+404,Kathleen Webster,35,55253.19,Chicago
+405,Joann Glass,30,64929.39,Los Angeles
+406,Madison Weber,41,29715.06,Chicago
+407,Lori Hernandez,24,20038.57,New York
+408,Jeremy Turner,33,81260.93,New York
+409,Anthony Romero,36,35215.99,New York
+410,Jesse Brown,40,34386.71,Los Angeles
+411,Angela Lin,42,74870.2,Chicago
+412,Lisa Hunter,23,52997.57,New York
+413,Julian Conner,19,47990.27,Los Angeles
+414,Joanna Pacheco,47,109787.82,Houston
+415,Erica Alvarez,38,30841.78,New York
+416,Antonio Garcia,27,61523.89,Chicago
+417,Gwendolyn Klein,50,41417.11,Los Angeles
+418,Carrie Wright,36,45375.77,New York
+419,Jeffrey Mills,46,81872.77,Chicago
+420,Jake Campbell,35,48986.61,Los Angeles
+421,George Harper,55,52078.82,Houston
+422,Maria Jones,52,66754.22,Houston
+423,Michael Mitchell,32,33528.84,Los Angeles
+424,Mary Escobar,44,27326.94,Los Angeles
+425,Felicia Aguilar,41,23507.35,Chicago
+426,Gregory Ponce,48,17600.62,Los Angeles
+427,Jenna Larson,25,105601.44,Chicago
+428,Emily Bennett,41,24356.45,New York
+429,Robin Santiago,45,37136.63,Los Angeles
+430,Nancy Jennings,18,34787.45,Los Angeles
+431,Maria Henderson,23,46413.74,Chicago
+432,Jack White,18,57084.67,Miami
+433,Travis Tucker,32,59315.95,New York
+434,Chad Jones,42,30457.43,Chicago
+435,Ashley Wise,50,37129.58,New York
+436,Sophia Johnson,35,44957.16,Houston
+437,Ralph Anderson,51,35437.83,Los Angeles
+438,Christopher Guerra,21,85445.07,Chicago
+439,Rhonda Martin,18,49483.32,Los Angeles
+440,Jason Rhodes,34,54334.15,Chicago
+441,Jeremy Mitchell,38,55836.11,Houston
+442,Joann Ferguson,34,70180.78,Chicago
+443,Robert Harrison,18,41963.53,Chicago
+444,Holly Valentine,34,23178.12,Miami
+445,Mrs. Diane Reyes,21,47345.96,New York
+446,Tracy Montoya,41,29984.64,New York
+447,Brenda Wright,38,31674.97,Los Angeles
+448,Shelly Spencer,25,51953.31,Miami
+449,Ryan Rosales,29,70166.21,Chicago
+450,Phillip Nelson,24,39513.27,New York
+451,Brittany Kim,34,44963.16,Chicago
+452,Courtney Hayes,44,87727.78,Chicago
+453,Alexander Brown,25,44393.86,New York
+454,Cynthia Vang,40,136148.78,Los Angeles
+455,Alfred Galvan,29,52364.73,Miami
+456,Marie Moody,27,20044.55,Chicago
+457,Dustin Gallegos,33,55847.05,Chicago
+458,Brenda Thornton,24,47679.35,Chicago
+459,Aaron Miller,29,73208.01,New York
+460,Ruben Dunn,23,54819.73,Houston
+461,Kelsey Rodriguez,54,37462.46,Chicago
+462,Eric Williams,35,23932.38,Chicago
+463,Riley Bryant,28,36693.96,Los Angeles
+464,Taylor Carlson,37,25998.14,Chicago
+465,Jose Allen,33,31535.61,Los Angeles
+466,Jeffrey Mendez,32,53128.94,New York
+467,Jason Beck,41,86433.2,Houston
+468,William Jones,42,47775.78,Miami
+469,Katie Mcneil,29,24154.77,Los Angeles
+470,Jeanette Harrison,29,48646.85,Miami
+471,Veronica King,32,70632.78,New York
+472,Richard Cooper,18,32635.78,Chicago
+473,Lori Ingram,19,36675.81,Los Angeles
+474,Evelyn Williams,48,38702.14,Los Angeles
+475,Robin Thompson,51,28331.33,Chicago
+476,Julie Dominguez,32,54440.14,Chicago
+477,Robin Brown,40,37453.58,New York
+478,Judith Carter,38,49744.43,Chicago
+479,Curtis Williams,65,25462.45,New York
+480,Kaylee Hays,46,33373.85,Los Angeles
+481,Dawn Mullins,33,55008.23,New York
+482,Howard Norman,25,35358.62,New York
+483,Evelyn Martinez,18,91611.22,Los Angeles
+484,Steve Paul,37,32471.37,Los Angeles
+485,Jasmine Beltran,27,43583.71,Houston
+486,Jonathan Glass MD,20,62249.33,Los Angeles
+487,Monica Miller,28,20981.77,Chicago
+488,Samantha Gardner,24,18511.55,Houston
+489,Bobby Guerrero,51,20460.97,Chicago
+490,Lance Simmons,43,69854.86,New York
+491,Heather Williams,34,31044.79,Los Angeles
+492,Heather Bolton,49,133306.51,Miami
+493,William Gould,35,30395.31,Chicago
+494,Mark Cox,26,44769.65,New York
+495,Meghan Cisneros,50,80759.28,New York
+496,Lawrence Harrington,40,103330.17,New York
+497,Austin Osborne,24,105019.65,Chicago
+498,James Bradley,33,69668.78,Los Angeles
+499,Meghan Rush,26,64889.23,New York
+500,Phillip Berry,21,52678.03,Miami
+501,Jennifer Banks,44,57663.98,Houston
+502,Brian Fitzgerald,54,32036.08,Los Angeles
+503,Mr. Justin Green III,21,27291.2,Houston
+504,Zachary Mitchell,40,39142.05,New York
+505,Katherine Martinez,28,35768.01,Chicago
+506,Jodi Roach,30,31626.34,Los Angeles
+507,Brandon Fleming,29,57890.24,Houston
+508,Emma Reed,26,63295.63,Houston
+509,Joshua Vance,35,40105.71,New York
+510,Michelle Ho,26,78198.55,Miami
+511,Rebecca Hicks,37,24501.87,New York
+512,Curtis Taylor,34,37011.23,Houston
+513,Allison Spencer,32,29425.64,Miami
+514,Robert Arnold,25,17526.71,New York
+515,Angelica Parker,29,38219.36,Los Angeles
+516,Dr. Kelly Hammond DVM,42,37998.66,New York
+517,William Day,40,80984.56,Chicago
+518,Michael Cooper,25,51062.55,Chicago
+519,Penny Bowman,35,25031.9,Los Angeles
+520,Vincent Reynolds,42,94419.1,Miami
+521,Amy Martinez,18,70545.96,Los Angeles
+522,Christopher Morris,40,55069.23,Chicago
+523,Hannah Everett,28,36294.85,Houston
+524,Sarah King,40,25664.2,Miami
+525,Krista Martinez,27,34570.49,New York
+526,Joseph Shaw,18,66573.53,Miami
+527,Todd Moore,18,97100.54,New York
+528,Michelle Jacobs,35,82667.15,Houston
+529,Kristy Bryan,37,33997.21,New York
+530,Angel May,25,23116.82,New York
+531,Marilyn Wang,41,42939.57,Chicago
+532,Mark Jimenez,18,17573.24,Los Angeles
+533,Donna Frye,34,46739.7,Chicago
+534,Dr. Michael Evans,22,36313.19,New York
+535,Anthony Gonzales,28,31849.56,Los Angeles
+536,Mr. Lawrence Edwards,35,19565.79,Miami
+537,Morgan Valencia,26,51424.01,Chicago
+538,Bianca Wood,31,32242.32,New York
+539,Emma Owens,45,22486.7,Chicago
+540,David Davis,29,12192.44,New York
+541,James Gilbert,43,38609.73,Houston
+542,Sean Moore,23,90332.51,Houston
+543,Kenneth Edwards,40,86618.46,Los Angeles
+544,Kathleen Robertson,49,32087.33,Chicago
+545,Mr. Alexander Landry MD,18,32800.16,Houston
+546,Cindy Gomez,27,49840.61,Los Angeles
+547,Johnny Khan,40,24166.64,Houston
+548,Julie Herrera,32,45165.64,Los Angeles
+549,Jessica Khan,38,57786.67,Houston
+550,Pamela Diaz,28,72656.73,Los Angeles
+551,Kelly Lee,35,36455.73,Chicago
+552,Angel Gordon,33,34419.4,Miami
+553,Diana Hays,46,28783.08,Chicago
+554,Barbara Hester,37,27907.64,Los Angeles
+555,Robert Morgan,38,35059.16,New York
+556,Nicole Gonzalez,30,47672.59,Los Angeles
+557,Kathryn Williams,30,58206.46,Los Angeles
+558,Gary Wells,30,27807.72,New York
+559,Larry Robertson,38,80427.2,New York
+560,Louis Martin,30,36135.88,Los Angeles
+561,Nancy Evans MD,37,38415.69,Houston
+562,Kim Erickson,55,28579.76,Chicago
+563,Robert Richardson,43,13380.82,New York
+564,Veronica Silva,31,60256.9,Los Angeles
+565,Molly Watts,47,55096.96,New York
+566,John Coffey,30,34642.13,Chicago
+567,Paula Lane,18,40056.69,New York
+568,Lauren Jackson,24,51154.27,New York
+569,Lisa Randall,18,20984.52,New York
+570,Michael Johnson,31,31140.05,Chicago
+571,Ashley Smith,35,57559.46,New York
+572,Christian Vaughn,51,21448.05,Chicago
+573,Reginald Knapp,38,45257.23,Chicago
+574,Nancy Brown,32,21879.32,Chicago
+575,Daniel Nguyen,43,51974.67,Chicago
+576,Kelly Edwards,18,38062.1,Houston
+577,Thomas Peterson,37,21158.79,New York
+578,Raymond Le,42,69511.62,Chicago
+579,Melissa Bishop,20,28932.93,New York
+580,David Grant,46,29477.16,New York
+581,William Evans,38,44018.37,Los Angeles
+582,Daniel Bush,30,68382.59,Los Angeles
+583,Gregory Peck,41,25299.78,Houston
+584,Denise Martinez,57,42176.49,Los Angeles
+585,Jamie Baird,36,49596.04,Miami
+586,Tina Ballard,37,54231.13,New York
+587,Dwayne Klein,30,41845.61,New York
+588,Jeremy Scott,26,33523.88,New York
+589,Dale Ryan,43,26709.46,New York
+590,Melissa Taylor,26,41350.33,Chicago
+591,Laurie Sanchez,35,25983.58,Los Angeles
+592,Kiara Little,30,11470.78,New York
+593,Jason Love,39,48631.31,Miami
+594,Randy Smith,38,60624.23,Houston
+595,Tanya Russell,45,15491.06,New York
+596,Sherry Woods,29,23172.67,New York
+597,Victor Morris,32,52385.83,New York
+598,Susan Davis,25,105306.09,New York
+599,Kimberly Sharp,30,41395.12,New York
+600,Susan Thompson,38,28243.38,Chicago
+601,Casey Gillespie,42,34765.29,New York
+602,Jennifer Simpson DVM,25,76337.25,Chicago
+603,Tammy Mcdowell,43,29156.58,Miami
+604,Keith Rodriguez,48,26663.18,Los Angeles
+605,Mrs. Virginia Daniels,39,31403.28,Miami
+606,Todd Rosales MD,53,25861.99,New York
+607,Brian Martin,27,41507.9,Chicago
+608,David Lopez,22,83119.53,Los Angeles
+609,Rachel Bradley,18,47079.37,New York
+610,Casey Chase,49,36785.5,New York
+611,Samantha Robertson,41,35536.8,Los Angeles
+612,Michael Lopez,34,18983.02,Los Angeles
+613,Franklin Wright,37,59773.6,Chicago
+614,David Molina,23,38422.78,Chicago
+615,Elizabeth Sharp,59,37280.7,Chicago
+616,Matthew Schwartz,36,183421.39,New York
+617,Bryan Parker,36,44932.12,Chicago
+618,Jonathan Jacobson,42,28518.91,New York
+619,Emily Wilson,39,33300.63,New York
+620,Elizabeth Mendez,37,69443.08,Miami
+621,Casey Hernandez,27,42636.1,Los Angeles
+622,Lisa Perry,39,21980.94,Los Angeles
+623,Kaitlin Medina,53,61088.1,Chicago
+624,Colleen Wright,48,30912.44,Chicago
+625,Shelley Miller,50,96565.75,New York
+626,Michael Miller,29,64958.06,New York
+627,Amy Kelley,25,33940.74,New York
+628,Laura Hernandez,33,73104.57,Houston
+629,Joseph Wilson,35,40625.7,Los Angeles
+630,Kevin Davis,45,58645.44,Chicago
+631,Rhonda Chavez,18,50072.0,Chicago
+632,Joyce Brown,50,27748.45,Miami
+633,Robert Cummings,33,30021.0,New York
+634,Robert Reese,30,64589.14,New York
+635,Amber Cooper,24,35918.21,Chicago
+636,Zachary Michael,18,34249.97,Houston
+637,Timothy Johnson,43,26216.93,Miami
+638,Randy Cannon,35,49323.64,New York
+639,Maria Fisher,22,104318.09,Houston
+640,Janet Kane DVM,22,25193.05,Houston
+641,Michael Stanley,31,42067.25,New York
+642,Martha Bailey,51,76860.61,Chicago
+643,Joshua Rice,32,37550.17,Chicago
+644,Courtney Smith,19,48380.61,Miami
+645,Edwin Nunez,32,23760.29,New York
+646,Kim Morrow,32,47703.35,Houston
+647,Gregory Hill,18,36201.02,Chicago
+648,Molly Rodriguez,34,61542.89,Los Angeles
+649,Jennifer Miranda,32,69270.75,Chicago
+650,Alexis Harris,41,136961.11,Los Angeles
+651,Andrew Harper,53,51116.38,Houston
+652,Amber Yang,46,47759.61,Houston
+653,David Robinson,32,44033.1,Houston
+654,Amy Gordon,23,34967.66,New York
+655,Robert Dennis,60,45854.49,Los Angeles
+656,Kyle Chambers,35,35683.52,New York
+657,Eric Thomas,35,41914.96,Chicago
+658,Connie Turner,34,74568.85,Chicago
+659,Travis Hobbs,36,25626.37,Chicago
+660,Lori Simmons,33,68264.86,Chicago
+661,William David DDS,29,72486.08,Miami
+662,Emma Butler,29,36838.63,New York
+663,James Webster,34,16667.28,Los Angeles
+664,Samuel Turner,29,29349.83,Chicago
+665,Renee Melendez,27,73422.58,New York
+666,Tracy Grant,36,38035.5,New York
+667,David Harris,32,26382.33,Miami
+668,Tammy Boone,50,30482.58,Houston
+669,Nathaniel Lee,18,59340.24,Miami
+670,Michael Morrison,45,51858.08,Miami
+671,Chelsea Gill,47,35029.39,New York
+672,Kristin Mendoza,18,34311.96,Chicago
+673,Felicia Krueger,31,33615.84,Los Angeles
+674,Timothy Hayden,31,25858.93,Chicago
+675,Zachary Mendoza,20,83936.82,Chicago
+676,Larry Harris,27,32447.52,Chicago
+677,Kristen Rowe,23,70590.95,Los Angeles
+678,Joseph Howard,52,79638.89,Los Angeles
+679,Jose Crawford,44,63418.94,New York
+680,William Harrison,47,32502.79,Chicago
+681,Suzanne Wood,42,48617.8,Los Angeles
+682,Justin Walker,23,39076.77,Los Angeles
+683,Dean Donovan,29,26283.52,New York
+684,Jennifer Hernandez,39,46941.5,Los Angeles
+685,James Whitaker,22,23975.4,New York
+686,Mr. Michael Scott PhD,42,69580.93,Chicago
+687,Maria Henry,32,32756.62,Houston
+688,Robert Jackson,31,42122.54,Los Angeles
+689,Katherine Stark,42,46098.29,New York
+690,Maria Brown,39,36018.41,Los Angeles
+691,Ryan Landry,31,51179.06,Los Angeles
+692,Pamela Gutierrez,46,31895.59,Houston
+693,Crystal Mann,24,59603.21,Los Angeles
+694,Jonathan Brooks,41,21892.98,Los Angeles
+695,Mary Jensen,40,42518.19,Chicago
+696,Mr. Aaron Arnold,31,100678.36,New York
+697,Joseph Hill,38,26604.58,New York
+698,Alicia Li,22,28065.24,Chicago
+699,Renee Browning,44,51077.49,Los Angeles
+700,Brent Hernandez,33,44556.11,Chicago
+701,Joseph Ochoa,29,47161.15,New York
+702,James Watson,45,50969.59,New York
+703,Karl Branch,27,55391.54,Chicago
+704,Michael Abbott,20,67773.68,New York
+705,Shannon Malone,19,48323.46,Los Angeles
+706,James Tran,41,36733.8,New York
+707,Adam Jackson,22,54477.17,Los Angeles
+708,Mr. Richard Knight PhD,52,97419.71,Miami
+709,Joseph Williams,18,37133.88,New York
+710,Sean Clay,51,27372.19,Chicago
+711,Anthony Jones,37,65848.76,New York
+712,Stephanie Elliott,34,39226.5,Los Angeles
+713,Timothy Edwards,29,16254.57,Los Angeles
+714,Laurie Goodwin,38,57576.97,Chicago
+715,Jennifer Jones,34,31654.99,Chicago
+716,David Davenport,46,36108.25,Houston
+717,Steven Rivera,36,46998.19,New York
+718,Brenda Hinton,36,44329.87,New York
+719,Kathryn Mccann,31,54685.92,Houston
+720,Jeffrey Roberson,34,32833.27,Los Angeles
+721,Randy Friedman,38,52390.75,Houston
+722,Raymond Johnson,18,34889.96,Los Angeles
+723,Willie Henry,21,54985.04,Houston
+724,Todd Reynolds,42,54380.58,Chicago
+725,Mary Miller,36,28211.68,Los Angeles
+726,Rebecca Marquez,33,66008.02,Miami
+727,Christian Dawson,35,32289.98,Los Angeles
+728,Nancy Stewart,38,59236.55,New York
+729,Aaron Parker,29,46393.77,New York
+730,Derrick Anderson,27,94058.12,New York
+731,Jerry Peters,36,37207.21,New York
+732,Alexander Gomez,25,35680.73,Chicago
+733,Kyle Nguyen,39,40027.47,Los Angeles
+734,Edgar Hughes,18,33827.57,Los Angeles
+735,Steven Stein,45,59661.85,Chicago
+736,Laura Jackson,39,19154.1,Los Angeles
+737,Charles Turner,37,24607.98,New York
+738,Arthur Hamilton MD,44,25134.59,New York
+739,Mr. David Wright,51,63458.99,New York
+740,Linda Gonzalez,45,89771.51,Chicago
+741,Eric Rush,18,38382.48,New York
+742,Manuel Brock,22,37339.18,New York
+743,George Ochoa,28,41153.55,Chicago
+744,Valerie Taylor,35,68979.97,Houston
+745,Travis Harris,40,23811.69,New York
+746,Vincent Novak,27,44115.63,Los Angeles
+747,Michael Henry,36,62877.54,Los Angeles
+748,Dana Bennett,27,49004.53,Houston
+749,Jenna Wilson,28,43812.63,Miami
+750,Leslie Gardner,20,63201.0,New York
+751,Krista Benton,25,14654.71,New York
+752,Michael Gonzales,21,56040.22,Houston
+753,Michael Fuentes,25,29219.72,Chicago
+754,Jennifer Porter,45,17889.52,Los Angeles
+755,Dana Hopkins,25,50318.0,Los Angeles
+756,Rachel Jones,61,75221.92,Los Angeles
+757,Karen Morales DDS,39,37598.6,Miami
+758,Melissa Stephens,36,61221.55,Miami
+759,Heather Woodard,26,83688.72,Los Angeles
+760,Margaret Miller,42,74207.23,New York
+761,Mary Kelly,29,86582.41,Houston
+762,Amanda Terrell,36,55326.85,New York
+763,Jennifer Goodwin,60,42106.72,New York
+764,Jessica Smith,34,19170.0,Houston
+765,Jorge Stone,46,35864.64,New York
+766,Laura Griffin,27,28142.63,New York
+767,Raymond Chapman,34,110990.6,New York
+768,Haley Johnson,52,37212.96,Houston
+769,Jason Nixon,28,41606.54,Chicago
+770,Todd Thomas,53,51149.53,Los Angeles
+771,Jesse Clark,42,40410.06,New York
+772,Mr. Jeffrey Horton,29,87508.89,Houston
+773,Eric Patrick,41,29923.46,Houston
+774,Samuel Wong,44,41978.15,Chicago
+775,Carly Riggs,41,28062.24,Chicago
+776,Christopher Moore,19,21984.63,New York
+777,Tina Hall,27,29989.16,Miami
+778,Cody Davidson,32,38907.69,Los Angeles
+779,Allen Mendez,34,32738.41,Miami
+780,Kevin Price,41,29667.71,Chicago
+781,Christine Goodwin,36,22351.39,Houston
+782,Amy Garcia,21,37687.65,Houston
+783,Chelsea Nguyen,38,19410.59,Los Angeles
+784,Dennis Huffman,41,55563.04,Miami
+785,Margaret Harper,40,40856.5,Chicago
+786,Laurie Bailey,45,20670.28,New York
+787,Lisa Cervantes,43,33843.45,Los Angeles
+788,Elizabeth Mendez,39,27136.24,Los Angeles
+789,Cesar Wilson,34,45642.93,Los Angeles
+790,Clayton Steele,18,74666.52,New York
+791,Jennifer Taylor,39,18315.16,Chicago
+792,Cody Reid,37,41407.92,Chicago
+793,Maria Cooke,37,36608.21,Chicago
+794,Katherine Taylor,22,53374.24,Los Angeles
+795,Jerry Brown,24,43869.1,Los Angeles
+796,Adam Taylor,45,27586.26,New York
+797,Tracey Wagner,34,35033.8,Chicago
+798,Michael Perry PhD,41,26105.56,New York
+799,Bradley Johnson DDS,35,65333.73,New York
+800,Donald Medina,35,40505.65,Houston
+801,Jim Newton,44,97641.1,Miami
+802,Krista Wilson,29,41423.61,Chicago
+803,Reginald Morrow,35,29333.56,Houston
+804,Rodney Williams,30,19532.95,Houston
+805,Kimberly Fritz,30,18146.16,Houston
+806,Ronald Potter,31,18171.31,New York
+807,Zachary Cole,37,44924.16,Miami
+808,Robert Gonzales,30,49500.84,Chicago
+809,Patricia Young PhD,47,20887.18,Chicago
+810,Heather Page,26,59763.39,New York
+811,Carol Taylor,33,31906.33,Chicago
+812,Daniel Brown,30,41945.63,New York
+813,Douglas Ryan,49,86555.85,New York
+814,Michael Roberts,36,60042.87,Chicago
+815,Scott Duke,45,37085.31,Houston
+816,Anna Estes,20,27572.14,Houston
+817,Tamara Riddle,37,16365.22,Chicago
+818,Beth Cline,43,29215.93,Houston
+819,Michael Poole,35,36571.06,Houston
+820,Megan Burns,45,23740.44,Houston
+821,Debra Perry,29,37229.81,New York
+822,Mark Beard,49,42083.28,Los Angeles
+823,Jose Ramirez,57,35904.88,Miami
+824,Jackie Clements,31,28333.72,Los Angeles
+825,Aaron Schroeder,30,42958.32,Chicago
+826,Monica Ellis,49,50499.94,Chicago
+827,Heather Brown,50,25799.94,Los Angeles
+828,Claudia Jordan,29,76969.28,Chicago
+829,Derrick Clayton,30,39020.22,New York
+830,Kenneth Knight,32,39792.88,Chicago
+831,Mr. Michael Williams,21,53542.38,Houston
+832,Richard Stevens,25,43382.5,Houston
+833,Scott Alexander,24,63550.39,New York
+834,Tyler Harris,27,45147.84,Miami
+835,Bonnie Santos,34,29993.02,Chicago
+836,Timothy Hill,37,46710.41,Los Angeles
+837,Danielle Watson,50,25903.25,Houston
+838,Carol Sanders,25,43467.14,Houston
+839,Michael Young,44,41435.89,Miami
+840,Michele Smith,32,36067.49,Chicago
+841,Casey Perez,34,37850.59,Houston
+842,Alexandra Dominguez,41,16156.09,New York
+843,Virginia Henderson,23,32578.77,Los Angeles
+844,Benjamin Reyes,38,40373.32,Los Angeles
+845,Ashley Edwards,36,43054.07,Los Angeles
+846,Breanna Ayala,39,24126.47,New York
+847,Brandi Haney,37,71292.38,Houston
+848,Joseph Smith,59,26213.48,New York
+849,Jessica Bowen,28,61858.85,New York
+850,Brittany Jenkins,29,47923.97,Los Angeles
+851,Shannon Miller,28,29240.22,Chicago
+852,Paul Lawrence,29,92559.2,Houston
+853,Victor Edwards,28,22389.02,Chicago
+854,Donald Miller,46,61222.66,New York
+855,Lindsay Lawson,49,64609.54,Houston
+856,Melissa Abbott,29,28956.61,Chicago
+857,Elizabeth Holmes,26,75637.53,New York
+858,Nicole Phillips,39,35317.05,Los Angeles
+859,Steven Blevins,29,46634.47,Chicago
+860,Brian Porter MD,41,45057.89,Los Angeles
+861,Vanessa Hatfield,37,36925.63,Chicago
+862,Bonnie Valencia,19,58453.81,Houston
+863,Holly Vega,50,56397.98,Houston
+864,Tiffany Townsend,52,19331.03,Los Angeles
+865,Austin Baker,28,73623.56,New York
+866,Antonio Mccormick,31,19007.82,Houston
+867,Lori Mason,37,63517.86,Los Angeles
+868,Michael Miller,38,66403.37,Los Angeles
+869,Lisa Ramirez,41,25081.89,Chicago
+870,Jorge Harris,55,34301.26,Houston
+871,Kimberly Myers,33,23755.24,Los Angeles
+872,Sandra Becker,27,36573.77,New York
+873,Michael Blair,21,32544.7,Chicago
+874,Amy Miller,27,56543.58,Houston
+875,Jesse Lynch,34,73392.25,New York
+876,Patrick Yang,52,75563.11,Miami
+877,Michael Miles,29,29980.42,Los Angeles
+878,Troy Mills,37,35540.68,Los Angeles
+879,Michelle Jackson,34,19443.05,New York
+880,Richard Adams,46,27584.34,New York
+881,Patricia Johnson,60,60092.86,Miami
+882,Denise Brown,29,82833.11,New York
+883,Laura Jones,30,22484.13,Houston
+884,Ian Porter,45,30962.43,Chicago
+885,Holly Scott,41,36591.68,New York
+886,Kenneth Sharp,53,44776.41,New York
+887,Jordan Williams,40,27200.15,Chicago
+888,Dana Ruiz,31,49781.04,Miami
+889,Chris Velazquez,40,31769.9,Chicago
+890,Kristen Sloan,46,39937.02,Chicago
+891,Jennifer Morris,43,51362.99,Chicago
+892,Nathan Nelson,40,37801.74,Chicago
+893,Jake Shaw,45,33464.79,Chicago
+894,Cassie Brock,46,38094.19,Houston
+895,Dr. Andrea Marshall,48,38754.23,Chicago
+896,Ryan Murphy,41,37608.04,Chicago
+897,Aimee Gonzalez,33,33323.57,New York
+898,Elizabeth Dean,36,85991.68,Miami
+899,Kevin Snyder,47,51284.77,New York
+900,Christie Mccullough,26,35115.09,New York
+901,Danielle Smith,38,54910.22,Los Angeles
+902,David Reed,31,33808.7,Los Angeles
+903,Sherry Tapia,35,68218.09,Chicago
+904,Matthew Sweeney,47,47517.17,Chicago
+905,Ashley Moreno,36,36401.31,Houston
+906,Johnathan Brown,35,49677.42,New York
+907,Michelle Davis DVM,21,19640.77,Houston
+908,Kelly Haynes,42,23043.6,Los Angeles
+909,William Miller,41,23040.99,Chicago
+910,Casey Wilkins,56,43763.18,Chicago
+911,Keith Graham,31,89322.73,New York
+912,Cynthia Green,37,114677.07,Houston
+913,Robert Haynes,37,52731.42,Chicago
+914,Emily Nelson,50,50907.64,Chicago
+915,Dale Chan,34,18942.48,Los Angeles
+916,Brittney Martin,37,33034.08,Miami
+917,Jason Herrera,41,27816.59,Chicago
+918,Christine Parker,36,30792.86,Miami
+919,Bryan Moore,30,36985.27,Chicago
+920,Samantha Terry,36,33475.86,New York
+921,Russell Murphy,45,16279.89,New York
+922,David Kelly,24,57028.57,Chicago
+923,Megan Green,36,24545.03,New York
+924,Amanda Sullivan MD,27,44366.01,New York
+925,Danielle Murray,46,106032.65,Miami
+926,Brenda Smith,19,26684.68,Houston
+927,Vickie Anderson,29,13631.96,Los Angeles
+928,Jacqueline Mccoy,38,35191.26,New York
+929,Lauren Green,50,68052.28,New York
+930,Alison Brown,34,101166.6,New York
+931,Jill Anderson,29,24007.22,Los Angeles
+932,Sandra Rivera,53,49597.59,Miami
+933,Joel Jackson,20,31388.13,Chicago
+934,Samantha Foster,18,38897.09,New York
+935,Michael Thompson,39,140615.82,Chicago
+936,Cody Ramirez,29,22101.44,Chicago
+937,Amanda Harvey,24,44123.89,Chicago
+938,Edward Jenkins,42,49153.3,Los Angeles
+939,Amy Ramirez,37,64358.72,Los Angeles
+940,Curtis Wilkerson,29,41246.49,New York
+941,Lydia Pham,22,46859.34,New York
+942,Virginia Casey,43,32890.54,Miami
+943,Joshua Washington,41,45686.77,New York
+944,Kathryn Price,34,33898.75,New York
+945,Francis Robinson,53,53376.46,New York
+946,Paula Brown,24,32540.16,New York
+947,Kendra Wang DVM,19,47436.1,Chicago
+948,Ariel Sandoval,28,36296.89,Houston
+949,Robert Stark,34,67082.27,Chicago
+950,Zachary Robinson,37,37263.72,Chicago
+951,Rebecca Kelly,32,19671.21,Los Angeles
+952,Sarah Thompson,38,72529.32,Chicago
+953,Renee Wolfe,22,27056.18,Houston
+954,Alyssa Haynes,49,31210.58,Houston
+955,Kristy Hart,34,29512.7,New York
+956,William Keith,46,77449.08,Houston
+957,Eric Henry Jr.,38,16915.69,Chicago
+958,Daniel Fox,39,177622.9,Miami
+959,Thomas Harris,40,66211.68,Chicago
+960,Mitchell Sellers,39,42997.61,Miami
+961,Erica Johnson,41,38007.79,Houston
+962,Sylvia Schroeder,48,44780.35,New York
+963,Shannon Yu,36,50096.13,Chicago
+964,Tom Foster,42,52585.12,Miami
+965,Eric Taylor,34,52667.72,Houston
+966,Travis Conner,49,41220.21,New York
+967,Marie Thompson,28,36755.89,Los Angeles
+968,Melissa Mcfarland,53,36599.68,Chicago
+969,Courtney Chapman,34,34622.78,New York
+970,Eric Barker,20,67785.85,Chicago
+971,Nicholas Rush,36,50450.87,New York
+972,Jenna Gamble,28,11779.6,Houston
+973,Amanda Guzman,43,52541.96,Chicago
+974,Tracy Walker,28,45516.62,Houston
+975,Taylor Taylor,30,40388.74,New York
+976,Cynthia Haas,18,33509.55,Chicago
+977,Stephen Davis,30,68471.13,New York
+978,Margaret Tanner,18,60977.35,New York
+979,Derek Wright,19,28718.86,New York
+980,David Rodriguez,42,48212.35,New York
+981,James Oconnor,42,26104.86,Los Angeles
+982,Stacey Snyder,39,22990.82,New York
+983,Joshua Garcia,25,30778.68,Chicago
+984,Sean Curtis,34,59681.85,Chicago
+985,Carla Jones,34,60332.27,Houston
+986,Elizabeth Flores,23,49476.07,Miami
+987,Angela Jackson,50,55562.16,Chicago
+988,Nicholas Payne,43,50602.13,Chicago
+989,Anna Wheeler,32,28720.74,New York
+990,Karen Johnson,35,50981.19,Miami
+991,Carmen Preston,37,59203.85,New York
+992,Brian Harris,18,57054.36,New York
+993,Michael Bowen,32,69377.4,New York
+994,Deborah Campbell,28,55036.35,Chicago
+995,Anthony Armstrong,24,45840.12,New York
+996,Brittany Ward,32,65588.98,Houston
+997,Edward Stanley,52,39594.87,New York
+998,Christina Johnson,41,25624.83,Los Angeles
+999,Edgar Miller,29,37306.24,New York
+1000,Elizabeth Sanders,40,28367.69,New York

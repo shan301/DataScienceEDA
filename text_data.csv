@@ -1,0 +1,53 @@
+```
+text,label
+"I love the product from Smith Inc! It's amazing.",positive
+"Poor service from Johnson Ltd. The item was terrible.",negative
+"Great experience with Brown Corp. Highly recommend their service.",positive
+"Very disappointed with Wilson Co's product.",negative
+"The service was fantastic, thanks Davis LLC!",positive
+,,negative
+"Poor service from Garcia Enterprises. The product was terrible.",negative
+"I love the item from Martinez Group! It's amazing.",positive
+"Very disappointed with Rodriguez Inc's service.",negative
+"Great experience with Lee Ltd. Highly recommend their product.",positive
+"The product was fantastic, thanks Clark Co!",positive
+"Poor service from Lewis Corp. The item was terrible.",negative
+"I love the service from Walker Inc! It's amazing.",positive
+"Very disappointed with Hall Co's item.",negative
+"Great experience with Allen Enterprises. Highly recommend their service.",positive
+"The item was fantastic, thanks Young LLC!",positive
+"Poor service from King Group. The product was terrible.",negative
+"I love the product from Wright Inc! It's amazing.",positive
+"Very disappointed with Scott Co's service.",negative
+"Great experience with Green Ltd. Highly recommend their item.",positive
+"The service was fantastic, thanks Adams Corp!",positive
+"Poor service from Baker Enterprises. The item was terrible.",negative
+"I love the item from Nelson Inc! It's amazing.",positive
+"Very disappointed with Carter Co's product.",negative
+"Great experience with Mitchell Ltd. Highly recommend their service.",positive
+"The product was fantastic, thanks Perez LLC!",positive
+"Poor service from Roberts Group. The item was terrible.",negative
+"I love the service from Turner Inc! It's amazing.",positive
+"Very disappointed with Phillips Co's item.",negative
+"Great experience with Campbell Enterprises. Highly recommend their product.",positive
+"The item was fantastic, thanks Parker Co!",positive
+"Poor service from Evans Corp. The service was terrible.",negative
+"I love the product from Edwards Inc! It's amazing.",positive
+"Very disappointed with Collins Co's service.",negative
+"Great experience with Stewart Ltd. Highly recommend their item.",positive
+"The service was fantastic, thanks Sanchez LLC!",positive
+"Poor service from Morris Group. The product was terrible.",negative
+"I love the item from Rogers Inc! It's amazing.",positive
+"Very disappointed with Reed Co's product.",negative
+"Great experience with Cook Enterprises. Highly recommend their service.",positive
+"The product was fantastic, thanks Morgan Co!",positive
+"Poor service from Bell Corp. The item was terrible.",negative
+"I love the service from Murphy Inc! It's amazing.",positive
+"Very disappointed with Bailey Co's item.",negative
+"Great experience with Rivera Ltd. Highly recommend their product.",positive
+"The item was fantastic, thanks Cooper LLC!",positive
+"Poor service from Richardson Group. The service was terrible.",negative
+"I love the product from Cox Inc! It's amazing.",positive
+"Very disappointed with Howard Co's service.",negative
+"Great experience with Ward Enterprises. Highly recommend their item.",positive
+```

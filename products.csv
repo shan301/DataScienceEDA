@@ -1,0 +1,101 @@
+ProductID,ProductName,Category,Price,Stock
+1,Doll,Books,377.67,62
+2,Headphones,Books,950.96,351
+3,Laptop,Home,733.33,230
+4,Action Figure,Toys,600.67,240
+5,Sneakers,Clothing,160.24,51
+6,Jacket,Home,160.21,95
+7,Jacket,Electronics,62.79,387
+8,Smartwatch,Clothing,866.85,221
+9,Action Figure,Electronics,603.11,484
+10,Headphones,Home,709.53,406
+11,Puzzle,Books,25.48,230
+12,Action Figure,Home,970.06,236
+13,Notebook,Electronics,833.28,142
+14,Tablet,Clothing,216.28,170
+15,Planner,Toys,185.92,28
+16,Bedding,Home,187.49,35
+17,Smartphone,Clothing,307.72,12
+18,Laptop,Books,527.13,159
+19,Tablet,Books,434.79,326
+20,Jeans,Books,294.77,186
+21,Jacket,Clothing,613.79,242
+22,Textbook,Home,143.8,85
+23,Comics,Clothing,295.68,283
+24,Laptop,Clothing,369.53,65
+25,Notebook,Toys,458.79,169
+26,Jeans,Toys,786.25,44
+27,Board Game,Home,203.68,61
+28,Doll,Toys,516.66,440
+29,Board Game,Books,594.45,133
+30,Notebook,Toys,51.22,283
+31,Bedding,Books,609.51,27
+32,Jacket,Home,174.67,107
+33,Rug,Clothing,69.73,43
+34,Planner,Clothing,949.14,339
+35,Sneakers,Toys,965.8,285
+36,Laptop,Books,809.36,445
+37,Building Set,Electronics,308.09,330
+38,T-Shirt,Electronics,102.18,127
+39,Board Game,Electronics,685.81,347
+40,Bedding,Clothing,442.95,472
+41,Lamp,Clothing,126.43,230
+42,Sneakers,Books,497.7,189
+43,Smartwatch,Toys,39.22,224
+44,Jeans,Electronics,909.77,384
+45,Building Set,Books,262.49,376
+46,Lamp,Books,664.21,282
+47,Headphones,Toys,315.15,445
+48,Tablet,Books,522.47,120
+49,Table,Toys,548.98,115
+50,Headphones,Home,188.93,460
+51,Chair,Toys,969.74,232
+52,Chair,Electronics,776.26,258
+53,Comics,Electronics,939.8,358
+54,Sneakers,Toys,895.35,197
+55,Smartphone,Home,599.91,455
+56,Action Figure,Home,922.26,410
+57,Rug,Electronics,93.05,136
+58,Notebook,Home,200.0,317
+59,Headphones,Books,50.0,164
+60,Table,Clothing,328.7,224
+61,Tablet,Books,391.73,306
+62,Notebook,Electronics,274.99,233
+63,Hat,Home,829.59,171
+64,Doll,Toys,359.97,151
+65,Comics,Clothing,284.53,462
+66,Chair,Toys,544.98,314
+67,Planner,Electronics,145.22,373
+68,Jeans,Home,803.19,159
+69,Board Game,Toys,79.18,95
+70,Tablet,Toys,986.95,471
+71,Smartphone,Clothing,773.38,232
+72,Puzzle,Clothing,202.72,179
+73,Jacket,Home,10.49,112
+74,Building Set,Clothing,816.38,317
+75,Hat,Toys,708.32,496
+76,Tablet,Toys,730.36,441
+77,Jacket,Electronics,772.41,51
+78,Headphones,Toys,78.67,267
+79,Table,Home,361.67,294
+80,Sneakers,Books,120.29,385
+81,Rug,Electronics,863.79,386
+82,Doll,Electronics,625.18,112
+83,Chair,Home,334.24,100
+84,T-Shirt,Home,68.24,112
+85,Chair,Clothing,314.43,439
+86,Chair,Electronics,328.56,80
+87,Jeans,Clothing,730.96,186
+88,Puzzle,Toys,639.37,112
+89,Sneakers,Electronics,887.78,1
+90,Board Game,Electronics,474.85,129
+91,Puzzle,Books,124.0,219
+92,Doll,Electronics,714.68,53
+93,Tablet,Toys,761.98,342
+94,Comics,Clothing,563.47,484
+95,Doll,Clothing,772.11,223
+96,T-Shirt,Books,496.33,224
+97,Notebook,Toys,525.12,384
+98,Action Figure,Clothing,430.4,402
+99,Jacket,Home,30.29,125
+100,T-Shirt,Toys,112.35,129
